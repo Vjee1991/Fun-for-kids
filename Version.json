@@ -1,7 +1,8 @@
+
 {
   "version": 4,
-  "name": "Fun for kids",
-  "description": "Nieuwe pandapuzzel, verbeterde vertalingen en spelupdates",
+  "name": "Kleurpret",
+  "description": "Eerste online versie",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
   "sha256": "3C0678618F8B00B84CFCB0BB8B971BBC2FF8CE74D1BC45DDF1DE04B0E3B1E7C2"
 }
