@@ -1,7 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "name": "Fun for kids",
-  "description": "Alle vijf spelletjes zichtbaar op het hoofdmenu, ook op liggende schermen",
+  "description": "Vijf originele ronde spelknoppen: drie boven en twee onder",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "6FEDAA341AF95C3F388C6A395CF4A88436604817707AEBAC1CC9FFAFE1F576EE"
+  "sha256": "957908E750D4D278CD8342DE4A4191F694FC89A498BE009774DAA6EA2DFF2141"
 }
