@@ -1,7 +1,7 @@
 {
-  "version": 8,
-  "name": "Fun for kids 7.1",
-  "description": "Aangepast hoofdmenu voor telefoon en tablet, gecentreerde pictogrammen",
+  "version": 9,
+  "name": "Fun for kids",
+  "description": "Verbeterde indeling voor telefoon en tablet",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "F9C392A688079956E9B8CB7AA646B0DC5A2724D6580A4B8C8C423E80B0C7FCBC"
+  "sha256": "F77925DD795EACADE845BB98DACBFE3397B66A959BA41F98AB3C0981D6AAAE40"
 }
