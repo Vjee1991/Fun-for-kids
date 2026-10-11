@@ -1,7 +1,7 @@
 {
-  "version": 4,
+  "version": 6,
   "name": "Fun for kids",
-  "description": "Nieuwe pandapuzzel, vertalingen en alle spelupdates",
+  "description": "Alle vijf spelletjes zichtbaar op het hoofdmenu, ook op liggende schermen",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "D5255BDB910B771908E222A11B86DA8052501A8DA8BBED7E999A106FAD80A2A0"
+  "sha256": "6FEDAA341AF95C3F388C6A395CF4A88436604817707AEBAC1CC9FFAFE1F576EE"
 }
