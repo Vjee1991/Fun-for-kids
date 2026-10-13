@@ -1,7 +1,7 @@
 {
-  "version": 9,
+  "version": 10,
   "name": "Fun for kids",
-  "description": "Verbeterde indeling voor telefoon en tablet",
+  "description": "Testversie met zes onafgewerkte spelletjes verborgen",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "F77925DD795EACADE845BB98DACBFE3397B66A959BA41F98AB3C0981D6AAAE40"
+  "sha256": "C5B1ACBD31157D78C0C64BB5EE2C5B8E3A64803FB312A74D72DE856777D705AF"
 }
