@@ -1,7 +1,7 @@
 {
-  "version": 10,
+  "version": 11,
   "name": "Fun for kids",
-  "description": "Testversie met zes onafgewerkte spelletjes verborgen",
+  "description": "Habitats: navigatie, pastelachtergrond en compacter kader",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "C5B1ACBD31157D78C0C64BB5EE2C5B8E3A64803FB312A74D72DE856777D705AF"
+  "sha256": "D5BE268DDFA951D64C4BE37C47979DB7BDCAE7F4588DD213BA795CF9A83953D5"
 }
