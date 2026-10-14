@@ -1,7 +1,7 @@
 {
-  "version": 12,
+  "version": 13,
   "name": "Fun for kids",
-  "description": "Habitats: Boerderij en Dierentuin dezelfde speelveldafmetingen als Oceaan",
+  "description": "Versleep dieren: nieuwe habitatpagina’s voor Boerderij, Oceaan en Dierentuin met sleepfunctie, scrollen, reset en olifanticoon. Oude Habitats-game verwijderd.",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "E42AA3B7AA6F168B796FBEBB87E6704290DD0EE4E965B0CE1B710958319BBECF"
+  "sha256": "6096E63832AE5A81229BC724A8F25A7DBA4020FB640F02E83619F160E97FF9B5"
 }
