@@ -1,7 +1,7 @@
 {
-  "version": 12,
+  "version": 15,
   "name": "Fun for kids",
-  "description": "Habitats: Boerderij en Dierentuin dezelfde speelveldafmetingen als Oceaan",
+  "description": "Nieuwe weergave: 5 puzzels en kleurplaten per rij in landschap, aangepaste keuzecirkels, scrollpositie bij teruggaan en verbeterde dierenhabitats.",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "E42AA3B7AA6F168B796FBEBB87E6704290DD0EE4E965B0CE1B710958319BBECF"
+  "sha256": "F352558AE07F9C16E4467AC8DB495509FAA4B6A46C45D04E83F9CA2ECD4A3379"
 }
