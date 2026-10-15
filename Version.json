@@ -1,7 +1,7 @@
 {
-  "version": 15,
+  "version": 13,
   "name": "Fun for kids",
-  "description": "Nieuwe weergave: 5 puzzels en kleurplaten per rij in landschap, aangepaste keuzecirkels, scrollpositie bij teruggaan en verbeterde dierenhabitats.",
+  "description": "Versleep dieren: nieuwe habitatpagina’s voor Boerderij, Oceaan en Dierentuin met sleepfunctie, scrollen, reset en olifanticoon. Oude Habitats-game verwijderd.",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "F352558AE07F9C16E4467AC8DB495509FAA4B6A46C45D04E83F9CA2ECD4A3379"
+  "sha256": "E535D64DE1C534B2E4C83516F2DDDBF72CAB5D4F5DEF47444CD46B81400BD17C"
 }
