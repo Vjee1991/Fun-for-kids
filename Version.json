@@ -1,7 +1,7 @@
 {
-  "version": 15,
+  "version": 16,
   "name": "Fun for kids",
-  "description": "Nieuwe weergave: 5 puzzels en kleurplaten per rij in landschap, aangepaste keuzecirkels, scrollpositie bij teruggaan en verbeterde dierenhabitats.",
+  "description": "Nieuw tekenlogo met katje op de Games-pagina, vernieuwde vierkante kleurplaten en verbeterde tekenfuncties.",
   "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "F352558AE07F9C16E4467AC8DB495509FAA4B6A46C45D04E83F9CA2ECD4A3379"
+  "sha256": "D527A9F7EB9345642EEA3E603D23D13C15FFD93F589F08DD02CC2ED6F31B977B"
 }
