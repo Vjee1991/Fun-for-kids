@@ -36,7 +36,6 @@ jobs:
           test -s _site/index.html
           cp Version.json _site/Version.json
           cp Fun-for-Kids-HTML-only-update.zip _site/Fun-for-Kids-HTML-only-update.zip
-          cp funforkids-update.zip _site/funforkids-update.zip
           touch _site/.nojekyll
       - name: Configure Pages
         uses: actions/configure-pages@v5
