@@ -1,7 +1,7 @@
 {
-  "version": 16,
+  "version": 17,
   "name": "Fun for kids",
-  "description": "Nieuw tekenlogo met katje op de Games-pagina, vernieuwde vierkante kleurplaten en verbeterde tekenfuncties.",
-  "zip": "https://vjee1991.github.io/Fun-for-kids/funforkids-update.zip",
-  "sha256": "D527A9F7EB9345642EEA3E603D23D13C15FFD93F589F08DD02CC2ED6F31B977B"
+  "description": "Update zonder aparte afbeeldingsmappen: alle afbeeldingen zitten in index.html.",
+  "zip": "https://vjee1991.github.io/Fun-for-kids/Fun-for-Kids-HTML-only-update.zip",
+  "sha256": "D938731CA1354DF3CD1903D2094B91A5CF3330FBB9FCF344A5BA6A30928E5E8D"
 }

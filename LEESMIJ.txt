@@ -1,8 +1,0 @@
-Kleurpret - tekenen en dierenpuzzels
-
-Open index.html in Chrome nadat je dit ZIP-bestand volledig hebt uitgepakt.
-Laat de map puzzelbeelden naast index.html staan.
-
-Bij Tekenen kies je eerst tussen Vrij tekenen en Kleurplaat inkleuren.
-Er zijn meer kleurplaten en extra kleuren beschikbaar.
-Dit is een lokaal browserprototype, geen geïnstalleerde Android-app.
